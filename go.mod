@@ -1,4 +1,4 @@
-module github.com/geraldnolan/terraform-provider-sonicwall/sonicwall
+module github.com/geraldnolan/terraform-provider-sonicwall
 
 go 1.14
 
